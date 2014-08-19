@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408390677 source:e:\projetos\timer\main.cpp
+	<windows.h>
+	<stdio.h>
+
