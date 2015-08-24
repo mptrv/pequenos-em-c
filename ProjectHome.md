@@ -1,0 +1,1 @@
+Conjunto de pequenos programas utilitários em C/C++, nas diversas arquiteturas de dispositivo (hardware). Caso algum destes programas venha a se tornar uma aplicação maior, será aberto um projeto específico.
